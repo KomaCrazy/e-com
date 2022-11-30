@@ -1,0 +1,11 @@
+body{
+  background-color: #505050;
+}
+.area{
+  background-color: #767474;
+  width: 60%;
+  height: 600px;
+  box-shadow: 2px 2px 8px 4px rgba(255, 255, 255, 0.1);
+  text-align: center;
+  margin: auto;
+} 
